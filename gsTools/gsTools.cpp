@@ -338,7 +338,7 @@ int main() {
 
 	while (!endFlag)
 	{
-		cout << "モードを選択 (0: 積分, 1: 微分, 2: 斜方投射): ";
+		cout << "モードを選択 (0: 積分, 1: 微分, 2: 斜方投射, 3: 終了): ";
 		cin >> mode;
 
 		switch (mode)

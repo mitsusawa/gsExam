@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\gsTools",
-    "\\gsTools\\Debug",
-    "\\gsTools\\Debug\\gsTools.tlog"
+    "\\Debug",
+    "\\gsTools"
   ],
-  "SelectedNode": "\\gsTools\\Debug\\gsTools.tlog",
+  "SelectedNode": "\\gsTools.sln",
   "PreviewInSolutionExplorer": false
 }
