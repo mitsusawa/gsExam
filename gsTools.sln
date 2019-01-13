@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gsTools", "gsTools\gsTools.vcxproj", "{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Debug|x64.ActiveCfg = Debug|x64
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Debug|x64.Build.0 = Debug|x64
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Debug|x86.ActiveCfg = Debug|Win32
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Debug|x86.Build.0 = Debug|Win32
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Release|x64.ActiveCfg = Release|x64
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Release|x64.Build.0 = Release|x64
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Release|x86.ActiveCfg = Release|Win32
+		{31BDBA29-F5CE-4E11-AFD2-594B2EC9296B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A39206-1EF8-4E72-ACB3-AE34D82B7D59}
+	EndGlobalSection
+EndGlobal
