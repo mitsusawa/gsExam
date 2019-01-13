@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Debug",
-    "\\gsTools"
+    "\\gsTools",
+    "\\gsTools\\Debug",
+    "\\gsTools\\Debug\\gsTools.tlog"
   ],
-  "SelectedNode": "\\CppProperties.json",
+  "SelectedNode": "\\gsTools\\Debug\\gsTools.tlog",
   "PreviewInSolutionExplorer": false
 }
